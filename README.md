@@ -9,8 +9,7 @@ After collecting the JSON files different types of features (mean, std, max, spe
 
   - **UDPServer.java :** Server side code to send **UDP** packets to a particular port
   - **Client :** Android application that recevies **UDP** packets and saves as JSON file in mobile storage
-  - UI of Client Application
-  ![](images/Quuppa.png)
+  - UI of Client Application ![](images/Quuppa.png)
   
 # IDE
 
